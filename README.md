@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I’m currently B.sc Computer Science student
+
+🔭 I’m currently looking for a student position
+
+🌱 I’m currently learning Web development
+
+💻 I have knowledge in Python, Java, C++, C, HTML, CSS 
+
+📫 Reach me in My linkedin profile is https://www.linkedin.com/in/osnat-orenstein-1981091b1
+
 <!--
 **osnato4050/osnato4050** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
